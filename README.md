@@ -25,7 +25,7 @@ I help early-stage AI, LLM Infrastructure, and Deep Tech founders reverse-engine
 ---
 
 ## 🤝 Let's Connect
-* 💼 **LinkedIn:** https://www.linkedin.com/in/liliya-lepekhina-it/
-* 🐦 **X (Twitter):** https://x.com/llepekhinait
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/liliya-lepekhina-it/]
+* 🐦 **X (Twitter):** [https://x.com/llepekhinait]
 * 🏛️ **Compliance:** 100% compliant corporate B2B invoicing globally via Mellow.
 
